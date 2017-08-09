@@ -1,1 +1,2 @@
 This is the first project file to be committed.
+This is new text committed in the branch.
